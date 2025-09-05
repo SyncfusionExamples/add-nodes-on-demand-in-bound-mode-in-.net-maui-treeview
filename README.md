@@ -1,8 +1,5 @@
 # add-nodes-on-demand-in-bound-mode-in-.net-maui-treeview
-This repository Explains about how to add nodes on demand in bound mode in .NET MAUI TreeView?
-
-Check out this GitHub example for the Syncfusion .NET MAUI TreeView Control: 
-https://github.com/syncfusion/maui-demos/tree/master/MAUI/TreeView
+This repository demonstrates how to dynamically add nodes on demand in bound mode using the .NET MAUI TreeView control. It provides a sample implementation that updates the TreeView by modifying the underlying data collection in the ViewModel, ensuring real-time UI updates.
 
 ## Sample
 
@@ -79,9 +76,6 @@ public class FileManagerViewModel
 ## Requirements to run the demo
 
 To run the demo, refer to [System Requirements for .NET MAUI](https://help.syncfusion.com/maui/system-requirements).
-
-## How to run this application
-To run this application, you need to first clone the `add-nodes-on-demand-in-bound-mode-in-.net-maui-treeview` repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
 ## Troubleshooting:
 ### Path too long exception
